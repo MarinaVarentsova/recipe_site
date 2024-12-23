@@ -1,0 +1,19 @@
+# Виртуальное окружение
+env/
+venv/
+
+# Файлы настройки IDE
+.vscode/
+*.pyc
+__pycache__/
+
+# База данных
+db.sqlite3
+
+# Статические файлы
+staticfiles/
+media/
+
+# Django Secret Key
+*.env
+
